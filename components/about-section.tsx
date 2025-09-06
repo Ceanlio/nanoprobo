@@ -1,5 +1,4 @@
 import { Card, CardContent } from "./ui/card"
-import { ProboscisMonkeyLogo } from "./proboscis-monkey-logo"
 import { StatusWidget } from "./status-widget"
 
 export function AboutSection() {

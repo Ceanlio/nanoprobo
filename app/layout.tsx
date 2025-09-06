@@ -47,6 +47,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
   openGraph: {
     title: "Nanoprobo - Advanced AI Solutions for Modern Business",
     description: "Transform your business with cutting-edge AI technology. Join our early access program.",
