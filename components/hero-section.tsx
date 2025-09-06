@@ -12,7 +12,7 @@ export function HeroSection() {
           {/* Left side - Hero content */}
           <div className="flex flex-col space-y-6 lg:space-y-8 text-center lg:text-left">
             <div className="space-y-4">
-              <ProboscisMonkeyLogo className="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 mx-auto lg:mx-0" />
+              <ProboscisMonkeyLogo variant="hero" className="mx-auto lg:mx-0" />
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-[family-name:var(--font-playfair)] leading-tight text-center lg:text-left">
                 AI That Actually <span className="text-primary">Works</span>
               </h1>

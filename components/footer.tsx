@@ -10,8 +10,7 @@ export function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
           <div className="space-y-4 sm:col-span-2 lg:col-span-1">
             <Link href="/" className="flex items-center space-x-2">
-              <ProboscisMonkeyLogo className="w-6 h-6" />
-              <span className="font-bold">Nanoprobo</span>
+              <ProboscisMonkeyLogo variant="footer" showText={true} />
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed max-w-xs">
               Advancing AI technology to create smarter, more efficient solutions for tomorrow's challenges.
