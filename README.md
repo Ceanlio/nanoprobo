@@ -57,8 +57,8 @@ nanoprobo-website/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd nanoprobo-website
+git clone https://github.com/Ceanlio/nanoprobo.git
+cd nanoprobo
 ```
 
 2. Install dependencies:
